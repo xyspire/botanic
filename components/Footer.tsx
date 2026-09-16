@@ -185,7 +185,7 @@ export default function Footer() {
 
           {/* Copyright Line */}
           <p className="font-mulish text-xs sm:text-sm text-neutral-400 font-normal">
-            Copyright &amp; Design by <span className="text-neutral-200">@RedDevs</span> - Powered by Framer - 2026
+            Crafted by<a href="https://xyspire.co.uk" target="_blank" rel="noreferrer" className="hover:underline "> Xyspire</a>
           </p>
         </div>
 
