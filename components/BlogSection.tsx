@@ -50,7 +50,7 @@ export default function BlogSection() {
     <section
       id="blogs"
       ref={containerRef}
-      className="w-full bg-[#f4f3ea] text-neutral-900 py-20 sm:py-28 px-4 sm:px-6 lg:px-8 relative z-20 border-t border-[#dedccf] overflow-hidden"
+      className="w-full bg-[#f2f1ea] text-neutral-900 py-20 sm:py-28 px-4 sm:px-6 lg:px-8 relative z-20 border-t border-[#dedccf] overflow-hidden"
     >
       <div className="max-w-6xl mx-auto">
         {/* Top Header Row: Badge & "View all blogs" Button */}
@@ -84,7 +84,7 @@ export default function BlogSection() {
             {/* Top Large Image */}
             <div className="w-full aspect-[16/11] sm:aspect-[16/10] relative rounded-[20px] sm:rounded-[24px] overflow-hidden bg-neutral-900 mb-6 shrink-0">
               <Image
-                src="/whoarewe1.png"
+                src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=1200&auto=format&fit=crop"
                 alt="Woman relaxing peacefully lying on dense green foliage"
                 fill
                 className="object-cover object-center group-hover:scale-105 transition-transform duration-700 ease-out"
@@ -125,7 +125,7 @@ export default function BlogSection() {
               {/* Thumbnail Image */}
               <div className="w-full sm:w-[200px] lg:w-[220px] aspect-[4/3] sm:aspect-square relative rounded-[20px] sm:rounded-[24px] overflow-hidden bg-neutral-900 shrink-0">
                 <Image
-                  src="/whoarewe2.png"
+                  src="https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?q=80&w=800&auto=format&fit=crop"
                   alt="Lush green undulating mossy dunes in soft light"
                   fill
                   className="object-cover object-center group-hover:scale-105 transition-transform duration-700 ease-out"
@@ -163,7 +163,7 @@ export default function BlogSection() {
               {/* Thumbnail Image */}
               <div className="w-full sm:w-[200px] lg:w-[220px] aspect-[4/3] sm:aspect-square relative rounded-[20px] sm:rounded-[24px] overflow-hidden bg-neutral-900 shrink-0">
                 <Image
-                  src="/whoarewe3.png"
+                  src="https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?q=80&w=800&auto=format&fit=crop"
                   alt="Deep green rain-soaked botanical foliage"
                   fill
                   className="object-cover object-center group-hover:scale-105 transition-transform duration-700 ease-out"
