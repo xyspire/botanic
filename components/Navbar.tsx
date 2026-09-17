@@ -199,7 +199,7 @@ export default function Navbar() {
               <div className="w-5 h-5 rounded-full bg-white/20 flex items-center justify-center">
                 <Phone className="w-3 h-3 text-white" />
               </div>
-              <span>+1 (212) 555-0184</span>
+              <span>+44 7717645851</span>
             </a>
 
             <a
@@ -284,7 +284,7 @@ export default function Navbar() {
                 className="flex items-center justify-center gap-2.5 py-3 rounded-full bg-white/10 text-white text-sm font-mulish border border-white/10"
               >
                 <Phone className="w-4 h-4 text-emerald-400" />
-                <span>+1 (212) 555-0184</span>
+                <span>+44 7717645851</span>
               </a>
 
               <a
