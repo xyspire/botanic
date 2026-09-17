@@ -185,7 +185,7 @@ export default function Footer() {
 
           {/* Copyright Line */}
           <p className="font-mulish text-xs sm:text-sm text-neutral-400 font-normal">
-            Crafted by<a href="https://xyspire.co.uk" target="_blank" rel="noreferrer" className="hover:underline "> Xyspire</a>
+            Crafted by <a href="https://xyspire.co.uk" target="_blank" rel="noreferrer" className="hover:underline ">Xyspire</a>
           </p>
         </div>
 
